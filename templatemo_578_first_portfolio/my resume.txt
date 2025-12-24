@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhinandhaan A - Resume</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f7f8fa;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #0078d7;
+            color: white;
+            padding: 30px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        header p {
+            margin: 5px 0;
+        }
+        section {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 900px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #0078d7;
+            border-bottom: 2px solid #0078d7;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .skills, .technical-skills, .traits {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .skill-item {
+            background: #e6f0ff;
+            padding: 8px 12px;
+            border-radius: 5px;
+            font-weight: 500;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #0078d7;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Abhinandhaan A</h1>
+        <p>Jeyam Garden, Avinashi, Tirupur</p>
+        <p>📞 9597136488 | ✉️ <a href="mailto:n.a.abhinandhan@gmail.com" style="color:white;">n.a.abhinandhan@gmail.com</a></p>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>I am a person seeking an opportunity where I can make the best of my potential, contribute to the organization's growth, and develop my skills.</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <h3>HCL Technology - Customer Representative</h3>
+        <ul>
+            <li>Worked in the healthcare industry, specializing in voice processes for verifying insurance details via portals and phone calls.</li>
+            <li>Managed qualification of medical equipment, ensuring documentation and coverage accuracy.</li>
+            <li>Coordinated with stakeholders for timely delivery of services.</li>
+            <li>Created a time-saving solution using a hyper bookmark with 70+ provider portals for authorization checks.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>Deployed a static website on AWS.</li>
+            <li>Completed internship at Accenture in Cloud Computing.</li>
+            <li>Participated in Scaler Masterclass on DevOps, Cloud Computing & Cyber Security (Nov 2025).</li>
+            <li>Deployed a scalable web application on Microsoft Azure during internship at KRUTANIC Solutions.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>SRM University</strong> — MCA (2025 - pursuing)</li>
+            <li><strong>KPR College of Arts, Science and Research</strong> — B.Com (CA) (2020–2023) - 72%</li>
+            <li><strong>Nyruthi Vidhya Bhavan Mat Hr. Sec School</strong> — HSC (2017–2018) - 68%</li>
+            <li><strong>Sasurie Vidhya Bhavan Mat Hr. Sec School</strong> — SSLC (2019–2020) - 70%</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Achievements & Awards</h2>
+        <ul>
+            <li>President of the B.Com CA Department (2020–23)</li>
+            <li>Vice President of the E-Vanniyars Association</li>
+            <li>Vice President of the School of Commerce</li>
+            <li>Brand Ambassador of the School of Commerce</li>
+            <li>Organized MIME Program for Human Rights Day</li>
+            <li>Awarded by Chennai Railway Police for “Railway Passengers Awareness Programme” (2019)</li>
+            <li>Completed “Introduction to Information Technology” & “English Writing Skills” at Alison University</li>
+            <li>Zonal Winner & District Runner in Football (2020)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <div class="skills">
+            <div class="skill-item">Multitasking</div>
+            <div class="skill-item">Leadership</div>
+            <div class="skill-item">Quick Learning</div>
+            <div class="skill-item">Adaptability</div>
+            <div class="skill-item">Hardworking</div>
+            <div class="skill-item">Honesty</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <div class="technical-skills">
+            <div class="skill-item">CSS</div>
+            <div class="skill-item">C++</div>
+            <div class="skill-item">SQL Server</div>
+            <div class="skill-item">Oracle</div>
+            <div class="skill-item">Microsoft Suite</div>
+            <div class="skill-item">GitHub</div>
+            <div class="skill-item">AWS</div>
+            <div class="skill-item">Azure</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Personal Traits</h2>
+        <div class="traits">
+            <div class="skill-item">AI Learning</div>
+            <div class="skill-item">Photo Editing</div>
+            <div class="skill-item">Multimedia</div>
+            <div class="skill-item">Photography</div>
+            <div class="skill-item">Content Creation</div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Abhinandhaan A | Created with 💙 in HTML</p>
+    </footer>
+
+</body>
+</html>
